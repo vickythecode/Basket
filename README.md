@@ -1,8 +1,27 @@
-# React + Vite
+# Basketball Player Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project displays information about basketball players using a React component. Each player's card includes their name, image, position, and stats.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Follow these instructions to set up and run the project on your local machine.
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js (version 14 or higher)
+- npm (Node package manager)
+
+### Installation
+
+1. Clone the repository to your local machine.
+
+```bash
+git clone https://github.com/your-username/basketball-player-card.git
+
+cd basketball-player-card
+
+npm install
+npm run dev
+that's it

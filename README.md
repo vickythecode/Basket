@@ -25,3 +25,6 @@ cd basketball-player-card
 npm install
 npm run dev
 that's it
+
+
+![Vite + React - Google Chrome 16-07-2024 16_57_30](https://github.com/user-attachments/assets/3e06bd12-b8cc-453b-aa02-8d373bb5bbe2)
